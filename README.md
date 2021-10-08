@@ -1,7 +1,7 @@
 # maju.GitHub.io-
 <html> 
 <head> 
-<title>Site Pessoal</title>
+
 </head> 
 <body>
  oi, meu nome é Maria Julia, tenho 19 anos.
